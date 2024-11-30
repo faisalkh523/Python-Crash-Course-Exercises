@@ -1,2 +1,2 @@
-# Python-Lessons
-## This repository consist of the practice of the weekly session i attended with Arewa Data Science Academy for the "python programming for Data science cohort 3.0"
+# Python crash course exercise
+## this repository entails the practice i had undertaken from python crash course by Eric Matthes
